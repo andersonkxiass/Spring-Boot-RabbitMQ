@@ -19,7 +19,7 @@ Now we just need to run an update, and install the rabbitmq-server from our newl
 
 ```sudo apt-get update```
 
-````sudo apt-get install rabbitmq-server```
+```sudo apt-get install rabbitmq-server```
 
 #RabbitMQ Management
 
@@ -34,3 +34,8 @@ Once the plugin is installed, you are able to access it via the following url:
 http://[your-server]:15672/
 
 > The default username and password are [guest] and [guest]. Login, and you will be greeted with the RabbitMQ dashboard.
+
+
+#Android-RabbitMQ Client
+
+URL project: https://github.com/andersonkxiass/Android-RabbitMQ
